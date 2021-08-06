@@ -25,7 +25,7 @@ class WorkspacesController extends Controller
         //exec("shp2pgsql -s 4326 -d ../storage/app/public/said/GH3nCX1AI7oZHrYCtT4olwSrntWpJYlSnQZKGQYn.bin GH3nCX1AI7oZHrYCtT4olwSrntWpJYlSnQZKGQYn | psql -h localhost -p 5432 -d RestApi -U postgres");
 
 
-        //exec("cd ../storage/app/public/said && mkdir chfanj");
+        //exec("cd ../storage/app/public/said && mkdir hamzaa");
         //GH3nCX1AI7oZHrYCtT4olwSrntWpJYlSnQZKGQYn.bin
         
 
